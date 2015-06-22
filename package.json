@@ -1,0 +1,26 @@
+{
+  "name": "codegurukul_practice",
+  "version": "1.0.0",
+  "description": "this is my first web application",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"https://github.com/swarupasv/codegurukul_practice"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swarupasv/codegurukul_practice.git"
+  },
+  "keywords": [
+    "education"
+  ],
+  "author": "swarupa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swarupasv/codegurukul_practice/issues"
+  },
+  "homepage": "https://github.com/swarupasv/codegurukul_practice#readme",
+  "dependencies": {
+    "express": "^4.13.0",
+    "jade": "^1.11.0"
+  }
+}
