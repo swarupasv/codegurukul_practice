@@ -1,15 +1,35 @@
-nav ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-nav li {
-  display: inline-block;
-}
-nav a {
+.box p {
   display: block;
-  padding: 6px 12px;
+  padding: 40px;
   text-decoration: none;
+  text-align: center;
+  color: red;
+}
+
+.box {
+  padding: 20px;
+  border: 2px solid black;
+  text-align: center;
+  box-shadow: 10px 10px 10px 10px;
+}
+
+.box h1 {
+  font-size: 20px;
+  color: blue;
+}
+
+.readmore {
+  border: 1px solid black;
+  float: right;
+  right: 0px;
+  background-color: blue;
+  margin-top: -34px;
+  margin-right: -20px;
+}
+
+.readmore h3 {
+  color: white;
+  font-size: 20px;
 }
 
 /*# sourceMappingURL=main.css.map */
